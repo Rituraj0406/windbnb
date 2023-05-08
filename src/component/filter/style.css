@@ -1,0 +1,18 @@
+.shadow-c{
+    box-shadow: 0px 1px 6px rgba(0, 0, 0, 0.1);
+}
+
+.MuiDialog-paper{
+    width: 100% !important;
+    margin: 0px !important;
+    position: absolute !important;
+    top: 0 !important;
+}
+
+.select__control{
+    border: none !important;
+}
+
+.select__indicator-separator{
+    width: 0px !important;
+}
